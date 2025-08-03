@@ -1,8 +1,9 @@
-streamlit>=1.31.0
-pandas>=2.0.0
-boto3>=1.28.0
-python-dotenv>=1.0.0
-requests>=2.31.0
-pycaret==3.3.2
-langfuse>=3.0.0
-openai>=1.35.0
+pycaret[regression]==3.3.2
+openai==1.63.2
+streamlit==1.45.1
+python-dotenv==1.0.1
+boto3==1.35.99
+pandas==1.5.3
+scikit-learn==1.4.2
+langfuse
+requests==2.32.3
